@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: user-service
+    jpa:
+        generate-ddl: true
+server:
+    port: 3306
